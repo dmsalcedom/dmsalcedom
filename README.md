@@ -9,6 +9,16 @@
     <span style="margin-left:6px; color:#24292f; font-size:14px;">ORCID</span>
   </a>
 
+
+<!-- ORCID -->
+<a href="https://orcid.org/0009-0004-8289-2432" target="_blank" 
+   style="margin: 0 15px; text-decoration:none;">
+  <img src="https://cdn.simpleicons.org/orcid/A6CE39" 
+       alt="ORCID" width="20" height="20" style="vertical-align:middle;"/>
+</a>
+
+
+
   <!-- Zenodo -->
   <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" style="margin: 0 15px; text-decoration:none;">
     <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="50" height="35" style="vertical-align:middle;"/>
