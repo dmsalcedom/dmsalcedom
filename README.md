@@ -15,6 +15,17 @@
     <span style="margin-left:6px; color:#24292f; font-size:14px;">Zenodo</span>
   </a>
 
+<!-- Zenodo -->
+<a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" 
+   style="margin: 0 15px; text-decoration:none; display:inline-flex; align-items:center;">
+  <img src="https://cdn.simpleicons.org/zenodo/1682D4" 
+       alt="Zenodo" width="50" height="35" 
+       style="margin-right:10px;"/>
+  <span style="color:#24292f; font-size:14px;">Zenodo</span>
+</a>
+
+
+
 
 <!-- Credly -->
 <a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="margin: 0 15px; text-decoration:none; display:inline-flex; align-items:center;">
