@@ -46,7 +46,7 @@
     <span>Coursera</span>
   </a>
 
-<a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank"
+<a href="https://www.linkedin.com/in/dm-slcm06/" target="_blue"
    style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
           gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
           color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
