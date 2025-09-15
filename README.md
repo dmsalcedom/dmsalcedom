@@ -37,7 +37,7 @@
 </table>
 
 
-<div style="display:flex; justify-content:center; align-items:center; gap:50px; margin:20px 0;">
+<div style="display:flex; justify-content:center; align-items:center; gap:30px; margin:20px 0;">
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
     <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="28" height="28" style="border:0;"/>
   </a>
@@ -57,7 +57,6 @@
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28" style="border:0;"/>
   </a>
 </div>
-
 
 
 
