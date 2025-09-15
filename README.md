@@ -110,10 +110,4 @@ Soy un profesional con enfoque en ingeniería de procesos, innovación tecnológ
 
 ---
 
-## 🏆 Lo que debes saber  
-Soy un **Desarrollador Full Stack** en constante evolución, combinando experiencia en ingeniería de procesos con las tecnologías más demandadas del mundo digital.  
-Mi enfoque integra **automatización, minería de procesos, AI y supply chain optimization** con visión global.  
 
----
-
-✨ _“Blindado, Senior, Top 10/10”_ 🚀
