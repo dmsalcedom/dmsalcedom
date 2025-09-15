@@ -52,8 +52,9 @@
           color:#0A66C2; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
           font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="18" height="18" />
-  <span>LinkedIn</span>
+  <span style="text-decoration:none; color:#0A66C2;">LinkedIn</span>
 </a>
+
 
 
 
