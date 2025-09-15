@@ -38,13 +38,6 @@
 
 
 
-
-
-
-
-
-
-
 <style>
   .icon-links {
     display: flex;
@@ -84,6 +77,10 @@
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub">
   </a>
 </div>
+
+
+
+
 
 
 
