@@ -6,9 +6,7 @@
   <a href="https://TUUSUARIO.github.io">GitHub Pages</a>
 </p>
 
-<p align="center">
-  <img src="https://ruta-de-tu-imagen/banner.png" alt="Banner" width="880">
-</p>
+
 
 
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
