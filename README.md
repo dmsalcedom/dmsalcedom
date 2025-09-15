@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://orcid.org/0000-0002-XXXX-XXXX">ORCID</a> •
+  <a href="https://scholar.google.com/citations?user=XXXX">Scholar</a> •
+  <a href="https://www.linkedin.com/in/tu-perfil/">LinkedIn</a> •
+  <a href="https://zenodo.org/communities/cti-hub-ai-processmining-supplychain-esg/">Zenodo</a> •
+  <a href="https://TUUSUARIO.github.io">GitHub Pages</a>
+</p>
+
+<p align="center">
+  <img src="https://ruta-de-tu-imagen/banner.png" alt="Banner" width="880">
+</p>
+
+
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
 **Ingeniería de Procesos · Innovación · AI/Process Mining · Supply Chain · SENNOVA**  
