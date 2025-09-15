@@ -1,14 +1,37 @@
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
 ---
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/dm-slcm06/"><img src="https://img.shields.io/badge/LinkedIn-David%20Salcedo-blue?logo=linkedin" /></a>
-  <a href="https://github.com/dmsalcedom"><img src="https://img.shields.io/badge/GitHub-dmsalcedom-black?logo=github" /></a>
-  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg"><img src="https://img.shields.io/badge/Zenodo-CTI%20Hub-purple?logo=zenodo" /></a>
-  <a href="https://www.credly.com/users/dmsalcedom"><img src="https://img.shields.io/badge/Credly-Badges-orange?logo=credly" /></a>
-  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838"><img src="https://img.shields.io/badge/Coursera-Certificates-blue?logo=coursera" /></a>
-</p>
+
+  <!-- ORCID -->
+  <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-Profile-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+
+  <!-- Zenodo -->
+  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
+    <img src="https://img.shields.io/badge/Zenodo-CTI%20Hub-683D87?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo"/>
+  </a>
+
+  <!-- Credly -->
+  <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Badges-FF6F00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
+
+  <!-- Coursera -->
+  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-Certificates-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/dmsalcedom" target="_blank">
+    <img src="https://img.shields.io/b
+
 
 ---
 
