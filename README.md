@@ -46,15 +46,15 @@
     <span>Coursera</span>
   </a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
-            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="16" height="16" />
-    <span>LinkedIn</span>
-  </a>
+<a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank"
+   style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+          gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+          color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+          font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="16" height="16" />
+  <span>LinkedIn</span>
+</a>
+
 
   <!-- GitHub -->
   <a href="https://github.com/dmsalcedom" target="_blank"
