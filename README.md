@@ -3,37 +3,71 @@
 ---
 <p align="center">
 
+  <!-- ESTILO COMÚN: botón blanco, borde gris, tamaño uniforme -->
+  <!-- (no edites estas propiedades por botón; ya están iguales para todos) -->
+
   <!-- ORCID -->
-  <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-?style=social&logo=orcid" height="30" />
+  <a href="https://orcid.org/0009-0004-8289-2432" target="_blank"
+     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
+    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="16" height="16" />
+    <span>ORCID</span>
   </a>
 
   <!-- Zenodo -->
-  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
-    <img src="https://img.shields.io/badge/Zenodo-?style=social&logo=zenodo" height="30" />
+  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank"
+     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
+    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="16" height="16" />
+    <span>Zenodo</span>
   </a>
 
   <!-- Credly -->
-  <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-?style=social&logo=credly" height="30" />
+  <a href="https://www.credly.com/users/dmsalcedom" target="_blank"
+     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="16" height="16" />
+    <span>Credly</span>
   </a>
 
   <!-- Coursera -->
-  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-?style=social&logo=coursera" height="30" />
+  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank"
+     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
+    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="16" height="16" />
+    <span>Coursera</span>
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-?style=social&logo=linkedin" height="30" />
+  <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank"
+     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="16" height="16" />
+    <span>LinkedIn</span>
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/dmsalcedom" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-?style=social&logo=github" height="30" />
+  <a href="https://github.com/dmsalcedom" target="_blank"
+     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" />
+    <span>GitHub</span>
   </a>
 
 </p>
+
 
 ---
 
