@@ -22,6 +22,16 @@
   <span style="color:#24292f; font-size:14px;">Credly</span>
 </a>
 
+<!-- Credly -->
+<a href="https://www.credly.com/users/dmsalcedom" target="_blank" 
+   style="margin: 0 15px; text-decoration:none; display:inline-flex; align-items:baseline;">
+
+  <img src="https://cdn.simpleicons.org/credly/FF6B00" 
+       alt="Credly" width="30" height="30" 
+       style="margin-right:6px;"/>
+
+  <span style="color:#24292f; font-size:14px;">Credly</span>
+</a>
 
 
 
