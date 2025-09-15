@@ -72,29 +72,6 @@
 
 </p>
 
-
-<!-- BOTÓN LINKEDIN SIN SUBRAYADO (SVG con logo + texto) -->
-<a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" width="170" height="34" role="img" aria-label="LinkedIn"
-       style="display:inline-block; vertical-align:middle;">
-    <!-- fondo del botón (blanco con borde gris) -->
-    <rect x="0.5" y="0.5" width="169" height="33" rx="6" ry="6"
-          fill="#ffffff" stroke="#d0d7de"/>
-    <!-- logo LinkedIn (azul oficial) -->
-    <image href="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-           x="10" y="8" width="18" height="18" />
-    <!-- texto LinkedIn en azul oficial -->
-    <text x="38" y="22" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif"
-          font-size="14" fill="#0A66C2">LinkedIn</text>
-  </svg>
-</a>
-
-
-
-
-
-
-
 ---
 
 ## 🧾 Descripción Profesional  
