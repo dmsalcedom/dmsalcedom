@@ -1,58 +1,56 @@
-<p align="center">
-  <a href="https://orcid.org/0000-0002-XXXX-XXXX">ORCID</a> •
-  <a href="https://scholar.google.com/citations?user=XXXX">Scholar</a> •
-  <a href="https://www.linkedin.com/in/tu-perfil/">LinkedIn</a> •
-  <a href="https://zenodo.org/communities/cti-hub-ai-processmining-supplychain-esg/">Zenodo</a> •
-  <a href="https://TUUSUARIO.github.io">GitHub Pages</a>
-</p>
-
-
-
-
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
-**Ingeniería de Procesos · Innovación · AI/Process Mining · Supply Chain · SENNOVA**  
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dm-slcm06/"><img src="https://img.shields.io/badge/LinkedIn-David%20Salcedo-blue?logo=linkedin" /></a>
+  <a href="https://github.com/dmsalcedom"><img src="https://img.shields.io/badge/GitHub-dmsalcedom-black?logo=github" /></a>
+  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg"><img src="https://img.shields.io/badge/Zenodo-CTI%20Hub-purple?logo=zenodo" /></a>
+  <a href="https://www.credly.com/users/dmsalcedom"><img src="https://img.shields.io/badge/Credly-Badges-orange?logo=credly" /></a>
+  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838"><img src="https://img.shields.io/badge/Coursera-Certificates-blue?logo=coursera" /></a>
+</p>
 
 ---
 
-## 🌍 Enlaces clave
-- 📖 **ORCID:** [0000-0002-XXXX-XXXX](https://orcid.org/0000-0002-XXXX-XXXX)  
-- 🎓 **Google Scholar:** [Mi perfil](https://scholar.google.com/citations?user=XXXX)  
-- 🧾 **Zenodo (CTI Hub):** [Comunidad Zenodo](https://zenodo.org/communities/cti-hub-ai-processmining-supplychain-esg/)  
-- 🏛️ **OpenAIRE (ORCID):** [Mis publicaciones](https://explore.openaire.eu/search/works?orcid=0000-0002-XXXX-XXXX)  
-- 💼 **LinkedIn:** [Mi perfil](https://linkedin.com/in/tuusuario)  
-- 🌐 **Portafolio oficial (GitHub Pages):** [Visitar](https://dmsalcedom.github.io)  
+## 🧾 Descripción Profesional  
+**Advanced Process Engineering · Process Mining · AI · Innovation · ESG & Supply Chain Optimization · SAP S/4HANA (CTI Hub)**  
+
+Soy un profesional con enfoque en ingeniería de procesos, innovación tecnológica y transformación digital, con experiencia en proyectos internacionales de optimización, minería de procesos y gestión de innovación aplicada.
 
 ---
 
-## 📚 Publicaciones (DOIs destacados)
-- “Manual SAP S/4HANA – Buenas Prácticas” — [DOI: 10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)  
-- “Process Mining en Supply Chain” — [DOI: 10.48550/arXiv.2401.00001](https://doi.org/10.48550/arXiv.2401.00001)  
-- “Optimización de Inventario en la Industria” — [DOI: 10.5281/zenodo.9876643](https://doi.org/10.5281/zenodo.9876643)  
+## ✉️ Contacto  
+📩 **Email:** dmsalcedom@gmail.com  
 
 ---
 
-## ⚙️ Proyectos destacados
-- **Python para Ciberseguridad** → [Repositorio](https://github.com/dmsalcedom/fundamentos-python-ciberseguridad)  
-- **Process Mining (Celonis / Python)** → *(Próximamente)*  
-- **SAP S/4HANA Best Practices** → *(Próximamente)*  
+## 🚀 Tecnologías y Herramientas  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-orange?logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celonis-2E74B5?logo=celonis&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-## 🏷️ Badges rápidos
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--XXXX--XXXX-brightgreen)](https://orcid.org/0000-0002-XXXX-XXXX)
-[![Zenodo](https://img.shields.io/badge/Zenodo-CTI%20Hub-blueviolet)](https://zenodo.org/communities/cti-hub-ai-processmining-supplychain-esg/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portafolio-GitHub%20Pages-black)](https://dmsalcedom.github.io)
+## 📚 Proyectos y Publicaciones (DOIs)
+- [Manual SAP S/4HANA – Buenas Prácticas](https://doi.org/10.5281/zenodo.1234567)  
+- [Process Mining en Supply Chain](https://doi.org/10.48550/arXiv.2401.00001)  
+- [Optimización de Inventario en la Industria](https://doi.org/10.5281/zenodo.9876643)  
+- [CTI Hub – Comunidad en Zenodo](https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/)  
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=dmsalcedom&show_icons=true&theme=radical)  
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsalcedom&layout=compact&theme=radical)  
+## 🏆 Lo que debes saber  
+Soy un **Desarrollador Full Stack** en constante evolución, combinando experiencia en ingeniería de procesos con las tecnologías más demandadas del mundo digital.  
+Mi enfoque integra **automatización, minería de procesos, AI y supply chain optimization** con visión global.  
 
 ---
 
-### ✉️ Contacto
-- 📩 **Correo:** tuemail@dominio.com  
-- 📅 **Agendar llamada:** *(Calendly o link que uses)*
+✨ _“Blindado, Senior, Top 10/10”_ 🚀
