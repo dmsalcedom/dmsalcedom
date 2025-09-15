@@ -2,39 +2,40 @@
 
 ---
 
-<div style="display:flex; justify-content:center; align-items:center; gap:40px;">
-
-  <!-- ORCID -->
-  <a href="https://orcid.org/0009-0004-8289-2432" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="28" height="28"/>
-  </a>
-
-  <!-- Zenodo -->
-  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="28" height="28"/>
-  </a>
-
-  <!-- Credly -->
-  <a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="32" height="32"/>
-  </a>
-
-  <!-- Coursera -->
-  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="28" height="28"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="28" height="28"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/dmsalcedom" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28"/>
-  </a>
-
-</div>
+ <table align="center" style="border-collapse:separate; border-spacing:28px 0;">
+  <tr>
+    <td>
+      <a href="https://orcid.org/0009-0004-8289-2432" target="_blank" style="text-decoration:none; border:0; outline:none;">
+        <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="28" height="28" style="display:block; border:0; box-shadow:none;">
+      </a>
+    </td>
+    <td>
+      <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" style="text-decoration:none; border:0; outline:none;">
+        <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="28" height="28" style="display:block; border:0; box-shadow:none;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="text-decoration:none; border:0; outline:none;">
+        <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="32" height="32" style="display:block; border:0; box-shadow:none;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank" style="text-decoration:none; border:0; outline:none;">
+        <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="28" height="28" style="display:block; border:0; box-shadow:none;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank" style="text-decoration:none; border:0; outline:none;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="28" height="28" style="display:block; border:0; box-shadow:none;">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dmsalcedom" target="_blank" style="text-decoration:none; border:0; outline:none;">
+        <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28" style="display:block; border:0; box-shadow:none;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
   
