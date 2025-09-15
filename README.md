@@ -1,46 +1,47 @@
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
 ---
-
 <p align="center">
 
   <!-- ORCID -->
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank" style="margin: 0 15px; text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="24" height="24" style="vertical-align:middle;"/>
+    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="20" height="20" style="vertical-align:middle;"/>
     <span style="margin-left:6px; color:#24292f; font-size:14px;">ORCID</span>
   </a>
 
   <!-- Zenodo -->
   <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" style="margin: 0 15px; text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="24" height="24" style="vertical-align:middle;"/>
+    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="20" height="20" style="vertical-align:middle;"/>
     <span style="margin-left:6px; color:#24292f; font-size:14px;">Zenodo</span>
   </a>
 
   <!-- Credly -->
   <a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="margin: 0 15px; text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="24" height="24" style="vertical-align:middle;"/>
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="20" height="20" style="vertical-align:middle;"/>
     <span style="margin-left:6px; color:#24292f; font-size:14px;">Credly</span>
   </a>
 
   <!-- Coursera -->
   <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank" style="margin: 0 15px; text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="24" height="24" style="vertical-align:middle;"/>
+    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="20" height="20" style="vertical-align:middle;"/>
     <span style="margin-left:6px; color:#24292f; font-size:14px;">Coursera</span>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank" style="margin: 0 15px; text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" height="24" style="vertical-align:middle;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20" style="vertical-align:middle;"/>
     <span style="margin-left:6px; color:#0A66C2; font-size:14px;">LinkedIn</span>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/dmsalcedom" target="_blank" style="margin: 0 15px; text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="24" height="24" style="vertical-align:middle;"/>
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="20" height="20" style="vertical-align:middle;"/>
     <span style="margin-left:6px; color:#24292f; font-size:14px;">GitHub</span>
   </a>
 
 </p>
+
+
 
 
 
