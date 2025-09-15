@@ -6,7 +6,7 @@
 
   <!-- ORCID -->
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank" style="margin: 0 12px; text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/orcid/00A500" alt="ORCID" width="20" height="20" style="vertical-align:middle;"/>
+    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="20" height="20" style="vertical-align:middle;"/>
     <span style="margin-left:6px; color:#24292f; font-size:14px;">ORCID</span>
   </a>
 
