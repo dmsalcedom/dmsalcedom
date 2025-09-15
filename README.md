@@ -35,11 +35,6 @@
 
 </p>
 
- 
-
-  
-
-
 ---
 
 ## 🧾 Descripción Profesional  
