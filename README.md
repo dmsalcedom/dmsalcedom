@@ -23,7 +23,7 @@
 
 <!-- Credly -->
 <a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="margin: 0 15px; text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="24" height="24" style="vertical-align:middle;"/>
+  <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="28" height="28" style="vertical-align:middle;"/>
   <span style="margin-left:6px; color:#24292f; font-size:14px;">Credly</span>
 </a>
 
