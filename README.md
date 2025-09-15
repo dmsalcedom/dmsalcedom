@@ -1,73 +1,69 @@
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
 ---
-<p align="center">
-
-  <!-- ESTILO COMÚN: botón blanco, borde gris, tamaño uniforme -->
-  <!-- (no edites estas propiedades por botón; ya están iguales para todos) -->
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 
   <!-- ORCID -->
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+     style="text-decoration:none; display:inline-flex; align-items:center; gap:8px;
+            border:1px solid #d0d7de; border-radius:6px; background:#fff;
             color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="16" height="16" />
+            font-size:14px; padding:6px 12px; width:150px; height:34px; justify-content:center;">
+    <img src="https://cdn.simpleicons.org/orcid/00A500" alt="ORCID" width="18" height="18" />
     <span>ORCID</span>
   </a>
 
   <!-- Zenodo -->
   <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+     style="text-decoration:none; display:inline-flex; align-items:center; gap:8px;
+            border:1px solid #d0d7de; border-radius:6px; background:#fff;
             color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="16" height="16" />
+            font-size:14px; padding:6px 12px; width:150px; height:34px; justify-content:center;">
+    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="18" height="18" />
     <span>Zenodo</span>
   </a>
 
   <!-- Credly -->
   <a href="https://www.credly.com/users/dmsalcedom" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+     style="text-decoration:none; display:inline-flex; align-items:center; gap:8px;
+            border:1px solid #d0d7de; border-radius:6px; background:#fff;
             color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="16" height="16" />
+            font-size:14px; padding:6px 12px; width:150px; height:34px; justify-content:center;">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="18" height="18" />
     <span>Credly</span>
   </a>
 
   <!-- Coursera -->
   <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+     style="text-decoration:none; display:inline-flex; align-items:center; gap:8px;
+            border:1px solid #d0d7de; border-radius:6px; background:#fff;
             color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="16" height="16" />
+            font-size:14px; padding:6px 12px; width:150px; height:34px; justify-content:center;">
+    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="18" height="18" />
     <span>Coursera</span>
   </a>
 
-  <!-- LinkedIn -->
+  <!-- LinkedIn (corregido) -->
   <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+     style="text-decoration:none; display:inline-flex; align-items:center; gap:8px;
+            border:1px solid #d0d7de; border-radius:6px; background:#fff;
             color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="16" height="16" />
+            font-size:14px; padding:6px 12px; width:150px; height:34px; justify-content:center;">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="18" height="18" />
     <span>LinkedIn</span>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/dmsalcedom" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+     style="text-decoration:none; display:inline-flex; align-items:center; gap:8px;
+            border:1px solid #d0d7de; border-radius:6px; background:#fff;
             color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" />
+            font-size:14px; padding:6px 12px; width:150px; height:34px; justify-content:center;">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="18" height="18" />
     <span>GitHub</span>
   </a>
 
 </p>
-
 
 ---
 
