@@ -5,35 +5,37 @@
 
   <!-- ORCID -->
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-Profile-00A500?style=flat-square&logo=orcid&logoColor=white&labelColor=00A500&color=00A500" height="30"/>
+    <img src="https://img.shields.io/badge/ORCID-?style=social&logo=orcid" height="30" />
   </a>
 
   <!-- Zenodo -->
   <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
-    <img src="https://img.shields.io/badge/Zenodo-Community-683D87?style=flat-square&logo=zenodo&logoColor=white&labelColor=683D87&color=683D87" height="30"/>
+    <img src="https://img.shields.io/badge/Zenodo-?style=social&logo=zenodo" height="30" />
   </a>
 
   <!-- Credly -->
   <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-Badges-FF6F00?style=flat-square&logo=credly&logoColor=white&labelColor=FF6F00&color=FF6F00" height="30"/>
+    <img src="https://img.shields.io/badge/Credly-?style=social&logo=credly" height="30" />
   </a>
 
   <!-- Coursera -->
   <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-Certificates-0056D2?style=flat-square&logo=coursera&logoColor=white&labelColor=0056D2&color=0056D2" height="30"/>
+    <img src="https://img.shields.io/badge/Coursera-?style=social&logo=coursera" height="30" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-?style=social&logo=linkedin" height="30" />
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/dmsalcedom" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717&color=181717" height="30"/>
+    <img src="https://img.shields.io/badge/GitHub-?style=social&logo=github" height="30" />
   </a>
 
 </p>
+
+ 
 
   
 
