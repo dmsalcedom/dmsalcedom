@@ -23,6 +23,20 @@
 </a>
 
 
+<!-- Credly -->
+<a href="https://www.credly.com/users/dmsalcedom" target="_blank" 
+   style="margin: 0 15px; text-decoration:none; display:inline-flex; align-items:center;">
+
+  <img src="https://cdn.simpleicons.org/credly/FF6B00" 
+       alt="Credly" width="30" height="30" 
+       style="position:relative; top:4px;"/>  <!-- aquí lo bajamos -->
+
+  <span style="margin-left:6px; color:#24292f; font-size:14px;">Credly</span>
+</a>
+
+
+
+
   <!-- Coursera -->
   <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank" style="margin: 0 15px; text-decoration:none;">
     <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="20" height="20" style="vertical-align:middle;"/>
