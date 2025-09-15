@@ -11,12 +11,12 @@
     </td>
     <td>
       <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" style="text-decoration:none; border:0; outline:none;">
-        <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="36" height="36" style="display:block; border:0; box-shadow:none;">
+        <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="40" height="40" style="display:block; border:0; box-shadow:none;">
       </a>
     </td>
     <td>
       <a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="text-decoration:none; border:0; outline:none;">
-        <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="32" height="32" style="display:block; border:0; box-shadow:none;">
+        <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="40" height="40" style="display:block; border:0; box-shadow:none;">
       </a>
     </td>
     <td>
