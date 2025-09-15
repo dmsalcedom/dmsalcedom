@@ -10,7 +10,7 @@
 
   <!-- Zenodo -->
   <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" style="margin: 0 15px; text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="28" height="28"/>
+    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="32" height="32"/>
   </a>
 
   <!-- Credly -->
