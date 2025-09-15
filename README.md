@@ -38,7 +38,6 @@
 
 
 
-
 <div style="display:flex; justify-content:center; align-items:center; gap:50px;">
 
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
@@ -50,7 +49,7 @@
   </a>
 
   <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="40" height="40" style="border:0;">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="42" height="42" style="border:0;">
   </a>
 
   <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank">
@@ -66,6 +65,7 @@
   </a>
 
 </div>
+
 
 
 
