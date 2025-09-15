@@ -76,7 +76,6 @@
 </div>
 
 
-
 <div style="text-align:center;">
 
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank" 
@@ -110,9 +109,6 @@
   </a>
 
 </div>
-
-
-
 
 
 
