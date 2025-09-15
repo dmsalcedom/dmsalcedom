@@ -47,12 +47,6 @@
   </a>
 
 
-<a href="https://orcid.org/0009-0004-8289-2432" target="_blank" 
-   style="text-decoration:none; border:0; outline:none; display:inline-block; line-height:0;">
-  <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="40" height="40" 
-       style="border:0; display:block;">
-</a>
-
 
 
 
