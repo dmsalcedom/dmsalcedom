@@ -1,6 +1,40 @@
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
 ---
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
+        <img src="https://img.shields.io/badge/ORCID-?style=social&logo=orcid" alt="ORCID" height="28">
+      </a>
+    </td>
+    <td>
+      <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
+        <img src="https://img.shields.io/badge/Zenodo-?style=social&logo=zenodo" alt="Zenodo" height="28">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
+        <img src="https://img.shields.io/badge/Credly-?style=social&logo=credly" alt="Credly" height="28">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank">
+        <img src="https://img.shields.io/badge/Coursera-?style=social&logo=coursera" alt="Coursera" height="28">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-?style=social&logo=linkedin" alt="LinkedIn" height="28">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/dmsalcedom" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-?style=social&logo=github" alt="GitHub" height="28">
+      </a>
+    </td>
+  </tr>
+</table>
 
  
 
