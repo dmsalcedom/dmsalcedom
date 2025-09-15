@@ -36,41 +36,6 @@
   </tr>
 </table>
 
-<table align="center" style="border-collapse:separate; border-spacing:28px 0; border:none;">
-  <tr>
-    <td style="border:1px solid #ffffff; background:transparent;">
-      <a href="https://orcid.org/0009-0004-8289-2432" target="_blank" style="text-decoration:none; border:0; outline:none;">
-        <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="28" height="28" style="display:block; border:0; background:transparent;"/>
-      </a>
-    </td>
-    <td style="border:1px solid #ffffff; background:transparent;">
-      <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" style="text-decoration:none; border:0; outline:none;">
-        <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="42" height="42" style="display:block; border:0; background:transparent;"/>
-      </a>
-    </td>
-    <td style="border:1px solid #ffffff; background:transparent;">
-      <a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="text-decoration:none; border:0; outline:none;">
-        <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="42" height="42" style="display:block; border:0; background:transparent;"/>
-      </a>
-    </td>
-    <td style="border:1px solid #ffffff; background:transparent;">
-      <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank" style="text-decoration:none; border:0; outline:none;">
-        <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="28" height="28" style="display:block; border:0; background:transparent;"/>
-      </a>
-    </td>
-    <td style="border:1px solid #ffffff; background:transparent;">
-      <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank" style="text-decoration:none; border:0; outline:none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="28" height="28" style="display:block; border:0; background:transparent;"/>
-      </a>
-    </td>
-    <td style="border:1px solid #ffffff; background:transparent;">
-      <a href="https://github.com/dmsalcedom" target="_blank" style="text-decoration:none; border:0; outline:none;">
-        <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="28" height="28" style="display:block; border:0; background:transparent;"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 ---
 
