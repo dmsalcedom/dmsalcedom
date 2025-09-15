@@ -1,31 +1,46 @@
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
 ---
-<!-- GitHub buttons script -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-
 <p align="center">
 
   <!-- ORCID -->
-  <a class="github-button" href="https://orcid.org/0009-0004-8289-2432" data-size="large" aria-label="Follow ORCID">Follow ORCID</a>
+  <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
+    <img alt="ORCID"
+         src="https://img.shields.io/badge/ORCID-0009--0004--8289--2432?style=social&logo=orcid" />
+  </a>
 
   <!-- Zenodo -->
-  <a class="github-button" href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" data-size="large" aria-label="Follow Zenodo">Follow Zenodo</a>
+  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
+    <img alt="Zenodo"
+         src="https://img.shields.io/badge/Follow-Zenodo?style=social&logo=zenodo" />
+  </a>
 
   <!-- Credly -->
-  <a class="github-button" href="https://www.credly.com/users/dmsalcedom" data-size="large" aria-label="Follow Credly">Follow Credly</a>
+  <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
+    <img alt="Credly"
+         src="https://img.shields.io/badge/Follow-Credly?style=social&logo=credly" />
+  </a>
 
   <!-- Coursera -->
-  <a class="github-button" href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" data-size="large" aria-label="Follow Coursera">Follow Coursera</a>
+  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank">
+    <img alt="Coursera"
+         src="https://img.shields.io/badge/Follow-Coursera?style=social&logo=coursera" />
+  </a>
 
   <!-- LinkedIn -->
-  <a class="github-button" href="https://www.linkedin.com/in/dm-slcm06/" data-size="large" aria-label="Follow LinkedIn">Follow LinkedIn</a>
+  <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
+    <img alt="LinkedIn"
+         src="https://img.shields.io/badge/Follow-LinkedIn?style=social&logo=linkedin" />
+  </a>
 
   <!-- GitHub -->
-  <a class="github-button" href="https://github.com/dmsalcedom" data-size="large" aria-label="Follow dmsalcedom on GitHub">Follow @dmsalcedom</a>
+  <a href="https://github.com/dmsalcedom" target="_blank">
+    <img alt="GitHub"
+         src="https://img.shields.io/badge/Follow-@dmsalcedom?style=social&logo=github" />
+  </a>
 
 </p>
+
 
 
 
