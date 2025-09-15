@@ -21,17 +21,6 @@
     <span style="margin-left:6px; color:#24292f; font-size:14px;">Credly</span>
   </a>
 
-<!-- Credly -->
-<a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="margin: 0 15px; text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="28" height="28" style="vertical-align:middle;"/>
-  <span style="margin-left:6px; color:#24292f; font-size:14px;">Credly</span>
-</a>
-
-<!-- Credly -->
-<a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="margin: 0 15px; text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="30" height="30" style="vertical-align:middle;"/>
-  <span style="margin-left:6px; color:#24292f; font-size:14px;">Credly</span>
-</a>
 
 <!-- Credly -->
 <a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="margin: 0 15px; text-decoration:none; display:inline-flex; align-items:center;">
@@ -39,6 +28,17 @@
   <span style="color:#24292f; font-size:14px;">Credly</span>
 </a>
 
+<!-- Credly -->
+<a href="https://www.credly.com/users/dmsalcedom" target="_blank" 
+   style="margin: 0 15px; text-decoration:none; display:inline-flex; align-items:center;">
+
+  <div style="display:flex; align-items:center;">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" 
+         alt="Credly" width="30" height="30" style="display:block;"/>
+    <span style="margin-left:6px; color:#24292f; font-size:14px; line-height:1;">Credly</span>
+  </div>
+
+</a>
 
 
 
