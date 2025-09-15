@@ -1,70 +1,85 @@
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
 ---
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
 
-  <!-- ORCID -->
-  <a href="https://orcid.org/0009-0004-8289-2432" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
-            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="16" height="16" />
-    <span>ORCID</span>
-  </a>
+ <table align="center">
+  <tr>
 
-  <!-- Zenodo -->
-  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
-            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="16" height="16" />
-    <span>Zenodo</span>
-  </a>
+    <!-- ORCID -->
+    <td style="padding:4px">
+      <a href="https://orcid.org/0009-0004-8289-2432" target="_blank"
+         style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+                gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+                color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+                font-size:14px; padding:6px 12px; width:170px; height:34px;">
+        <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="16" height="16" />
+        <span>ORCID</span>
+      </a>
+    </td>
 
-  <!-- Credly -->
-  <a href="https://www.credly.com/users/dmsalcedom" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
-            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="16" height="16" />
-    <span>Credly</span>
-  </a>
+    <!-- Zenodo -->
+    <td style="padding:4px">
+      <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank"
+         style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+                gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+                color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+                font-size:14px; padding:6px 12px; width:170px; height:34px;">
+        <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="16" height="16" />
+        <span>Zenodo</span>
+      </a>
+    </td>
 
-  <!-- Coursera -->
-  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
-            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="16" height="16" />
-    <span>Coursera</span>
-  </a>
+    <!-- Credly -->
+    <td style="padding:4px">
+      <a href="https://www.credly.com/users/dmsalcedom" target="_blank"
+         style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+                gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+                color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+                font-size:14px; padding:6px 12px; width:170px; height:34px;">
+        <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="16" height="16" />
+        <span>Credly</span>
+      </a>
+    </td>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
-            color:#0A66C2; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="18" height="18" />
-    <span>LinkedIn</span>
-  </a>
+    <!-- Coursera -->
+    <td style="padding:4px">
+      <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank"
+         style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+                gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+                color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+                font-size:14px; padding:6px 12px; width:170px; height:34px;">
+        <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="16" height="16" />
+        <span>Coursera</span>
+      </a>
+    </td>
 
-  <!-- GitHub -->
-  <a href="https://github.com/dmsalcedom" target="_blank"
-     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
-            gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
-            color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
-            font-size:14px; padding:6px 12px; width:170px; height:34px; margin:4px; box-shadow:0 1px 0 rgba(27,31,36,.04);">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" />
-    <span>GitHub</span>
-  </a>
+    <!-- LinkedIn (logo azul oficial) -->
+    <td style="padding:4px">
+      <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank"
+         style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+                gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+                color:#0A66C2; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+                font-size:14px; padding:6px 12px; width:170px; height:34px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="18" height="18" />
+        <span>LinkedIn</span>
+      </a>
+    </td>
 
-</div>
+    <!-- GitHub -->
+    <td style="padding:4px">
+      <a href="https://github.com/dmsalcedom" target="_blank"
+         style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center;
+                gap:8px; border:1px solid #d0d7de; border-radius:6px; background:#fff;
+                color:#24292f; font-family: system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+                font-size:14px; padding:6px 12px; width:170px; height:34px;">
+        <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" />
+        <span>GitHub</span>
+      </a>
+    </td>
 
+  </tr>
+</table>
+ 
 
 
 ---
