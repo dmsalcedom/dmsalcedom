@@ -11,7 +11,7 @@
     </td>
     <td>
       <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" style="text-decoration:none; border:0; outline:none;">
-        <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="28" height="28" style="display:block; border:0; box-shadow:none;">
+        <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="32" height="32" style="display:block; border:0; box-shadow:none;">
       </a>
     </td>
     <td>
