@@ -1,41 +1,41 @@
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
 ---
+
 <p align="center">
 
   <!-- ORCID -->
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-?style=social&logo=orcid&logoColor=00A500" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-ORCID?style=social&logo=orcid&logoColor=00A500" alt="ORCID"/>
   </a>
 
   <!-- Zenodo -->
   <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
-    <img src="https://img.shields.io/badge/Zenodo-?style=social&logo=zenodo&logoColor=1682D4" alt="Zenodo"/>
+    <img src="https://img.shields.io/badge/Zenodo-Zenodo?style=social&logo=zenodo&logoColor=1682D4" alt="Zenodo"/>
   </a>
 
   <!-- Credly -->
   <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-?style=social&logo=credly&logoColor=FF6B00" alt="Credly"/>
+    <img src="https://img.shields.io/badge/Credly-Credly?style=social&logo=credly&logoColor=FF6B00" alt="Credly"/>
   </a>
 
   <!-- Coursera -->
   <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-?style=social&logo=coursera&logoColor=0056D2" alt="Coursera"/>
+    <img src="https://img.shields.io/badge/Coursera-Coursera?style=social&logo=coursera&logoColor=0056D2" alt="Coursera"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-?style=social&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn?style=social&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/dmsalcedom" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-?style=social&logo=github&logoColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-GitHub?style=social&logo=github&logoColor=181717" alt="GitHub"/>
   </a>
 
 </p>
 
- 
 
 
 ---
