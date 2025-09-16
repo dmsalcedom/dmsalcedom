@@ -1,7 +1,3 @@
-# 👋 Hola, soy David Mauricio Salcedo Muñoz  
-
-
-
 <div align="center">
 
   <a href="https://orcid.org/0009-0004-8289-2432" target="_white">
@@ -35,7 +31,7 @@
 
 </div>
 
-
+# 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
 
 
