@@ -59,7 +59,7 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 
 ## 📚 Indexed Publications & DOIs  
 
-**[Zenodo CTI Hub](https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/)** → Advanced Process Engineering · Process Mining · AI · Innovation ESG & Supply Chain Optimization · SAP S4/HANA (CTI Hub) 
+**[Zenodo CTI Hub](https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/)** → Founder CTI Hub | Advanced Process Engineering · Process Mining · AI · Innovation ESG & Supply Chain Optimization · SAP S4/HANA (CTI Hub) 
 
 1. **Salcedo Muñoz, D. M. (2022).** *Metaheuristic Optimization Algorithms in Multi-Level Supply Chains with a Focus on Innovation, STI, and Intellectual Property. *(Versión: 1.0).* Zenodo · Indexed in OpenAIRE   
    🔗 [https://doi.org/10.5281/zenodo.16972934](https://doi.org/10.5281/zenodo.16972934)  
