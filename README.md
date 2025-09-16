@@ -65,7 +65,8 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 ## 📚 Indexed Publications & DOIs  
 
 <p align="center">
-  <img src="https://Gemini_Generated_Image_cwuwowcwuwowcwuw (4)-pica.png" alt="STI Hub - AI & SAP" width="320"/>
+  <img src="https://github.com/dmsalcedom/dmsalcedom/raw/cecb7fe83afcdddabf29b229dcb926dede2d987f/Gemini_Generated_Image_cwuwowcwuwowcwuw%20(4)-pica.png
+" alt="STI Hub - AI & SAP" width="320"/>
 </p>
 
 **[Zenodo CTI Hub](https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/)** → Founder STI Hub | Advanced Process Engineering · Process Mining · AI · Innovation ESG & Supply Chain Optimization · SAP S/4HANA  
