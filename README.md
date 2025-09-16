@@ -22,7 +22,7 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 - **Sustainable Digital Transformation & ESG Innovation** → Integration of disruptive technologies with strategic sustainability, enhancing competitiveness, organizational resilience, and responsible leadership in global contexts.  
 - **Industry 4.0 & Smart Systems** → Implementation of IoT solutions, industrial cybersecurity, cognitive intelligence, and digital twins applied to healthcare, education, and process engineering.  
 
-## 🌐 Conéctate conmigo  
+## 🌐 Global Presence & Professional Networks
 
 <div align="left">
  <a href="https://github.com/dmsalcedom" target="_blank">
@@ -45,7 +45,7 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
   </a>
 </div>
 
-## 🛠️ Tecnologías y Herramientas  
+## 🚀 Technological & Strategic Competencies 
 
 <div align="left">
 
