@@ -1,6 +1,6 @@
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
 
----
+
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
  
 
----
+
 
 ## 🧾 Descripción Profesional  
 **Advanced Process Engineering · Process Mining · AI · Innovation · ESG & Supply Chain Optimization · SAP S/4HANA (CTI Hub)**  
