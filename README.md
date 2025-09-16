@@ -2,7 +2,7 @@
 ### Senior Innovation & Transformation Expert | Advanced Process Engineering · Process Mining · AI · SAP S/4HANA · I+D+i+e · ESG Innovation · Industry 4.0 & Supply Chain Optimization  
 
 🔹 **Innovación & Liderazgo Global**  
-Senior STI Specialist & Project Director con más de seis años de experiencia liderando proyectos de **I+D+i+e, innovación tecnológica, transformación digital e Industria 4.0** en los sectores salud, educación e ingeniería de procesos con impacto regional, nacional e internacional.
+Senior STI Specialist & Project Director con más de seis años de experiencia liderando proyectos de **I+D+i+e, innovación tecnológica, transformación digital e Industria 4.0** en los sectores salud, educación e ingeniería de procesos.
 
 Experiencia comprobada en **investigación aplicada, transferencia tecnológica, incubación y mentoría de startups, y optimización organizacional** con impacto regional, nacional e internacional.  
 Experto en **SAP S/4HANA, Celonis Process Mining, automatización inteligente (RPA, Low-Code, MLOps), analítica avanzada, IA generativa, modelado predictivo y sistemas de inteligencia cognitiva**.  
