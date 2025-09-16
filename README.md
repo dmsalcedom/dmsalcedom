@@ -1,3 +1,6 @@
+# 👋 Hola, soy David Mauricio Salcedo Muñoz  
+
+
 <div align="center">
 
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
@@ -23,24 +26,19 @@
 
 
 <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="30" height="36">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="33" height="36">
   </a>
   &nbsp;&nbsp;
 
   
   <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
-    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="30" height="36">
+    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="33" height="36">
   </a>
-  &nbsp;&nbsp;
-
-  
-
- 
 
  
 </div>
 
-# 👋 Hola, soy David Mauricio Salcedo Muñoz  
+
 
 
 
