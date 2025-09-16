@@ -1,9 +1,9 @@
 # 🌍 David Mauricio Salcedo Muñoz  
-### Senior Innovation & Transformation Expert | Advanced Process Engineering · Process Mining · AI · SAP S/4HANA · I+D+i · ESG & Supply Chain Optimization  
+### Senior Innovation & Transformation Expert | Advanced Process Engineering · Process Mining · AI · SAP S/4HANA · I+D+i · ESG Innovation & Supply Chain Optimization  
 
 
 🔹 **Innovación & Liderazgo Global**  
-Ingeniero de Procesos Senior y Líder de Innovación con trayectoria en transformación digital, minería de procesos, inteligencia artificial y optimización de cadenas de suministro. Experiencia sólida en gestión de proyectos I+D+i, transferencia tecnológica y adopción de metodologías ágiles/Lean Six Sigma con impacto regional, nacional e internacional.  
+Ingeniero de Procesos Senior y Líder de Innovación con trayectoria en transformación digital, minería de procesos, inteligencia artificial y optimización de cadenas de suministro. Experiencia sólida en gestión de proyectos I+D+i+e, transferencia tecnológica y adopción de metodologías ágiles/Lean Six Sigma con impacto regional, nacional e internacional.  
 
 🔹 **Áreas de Especialidad**  
 - Process Mining & Advanced Analytics  
