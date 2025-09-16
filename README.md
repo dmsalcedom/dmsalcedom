@@ -21,15 +21,19 @@
   </a>
 &nbsp;&nbsp;
 
-  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
-    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="25" height="36">
+
+<a href="https://www.credly.com/users/dmsalcedom" target="_blank">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="30" height="36">
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="28" height="36">
+  
+  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
+    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="30" height="36">
   </a>
   &nbsp;&nbsp;
+
+  
 
  
 
