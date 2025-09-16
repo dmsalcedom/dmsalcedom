@@ -23,12 +23,12 @@
   <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25">
   </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/dmsalcedom" target="_blank">
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="25" height="25">
   </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 # 👋 Hola, soy David Mauricio Salcedo Muñoz  
