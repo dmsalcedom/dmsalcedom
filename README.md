@@ -14,7 +14,7 @@ Ingeniero de Procesos Senior y Líder de Innovación con trayectoria en transfor
 
 ## 🌐 Conéctate conmigo  
 
-<div align="center">
+<div align="left">
  <a href="https://github.com/dmsalcedom" target="_blank">
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="25" height="25">
   </a>
