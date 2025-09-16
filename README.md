@@ -7,6 +7,24 @@
     <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="40" height="40" style="border:0;">
   </a>
   
+<div style="display:flex; justify-content:center; align-items:center; gap:50px;">
+
+<a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969179.png" alt="Zenodo" width="40" height="40" style="border:0;">
+  </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 ---
