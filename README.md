@@ -1,6 +1,6 @@
 <div align="center">
 
-  <a href="https://orcid.org/0009-0004-8289-2432" target="_black">
+  <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
     <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="25" height="25">
   </a>
   &nbsp;&nbsp;
@@ -11,7 +11,7 @@
   &nbsp;&nbsp;
 
   <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="36" height="36">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="25" height="36">
   </a>
   &nbsp;&nbsp;
 
