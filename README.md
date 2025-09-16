@@ -92,6 +92,25 @@ Zenodo · Indexed in OpenAIRE
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17109807-blue)](https://doi.org/10.5281/zenodo.17109807)
 
 
+## 📚 Indexed Publications & DOIs  
+
+![CTI Hub AI](https://github.com/dmsalcedom/dmsalcedom/raw/cecb7fe83afcdddabf29b229dcb926dede2d987f/Gemini_Generated_Image_cwuwowcwuwowcwuw%20(4)-pica.png)
+
+**[Zenodo CTI Hub](https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/)** → Founder STI Hub | Advanced Process Engineering · Process Mining · AI · Innovation ESG & Supply Chain Optimization · SAP S4/HANA  
+
+1. **Salcedo Muñoz, D. M. (2022).** *Metaheuristic Optimization Algorithms in Multi-Level Supply Chains with a Focus on Innovation, STI, and Intellectual Property (Versión: 1.0).* Zenodo · Indexed in OpenAIRE   
+   🔗 [https://doi.org/10.5281/zenodo.16972934](https://doi.org/10.5281/zenodo.16972934)  
+
+2. **Salcedo Muñoz, D. M. (2023).** *Optimization of the Integration of Drawings and Bills of Materials in SAP S/4HANA Strategic Manual of Good Practices: Transforming Innovation (Versión: 1.0).* Zenodo · Indexed in OpenAIRE   
+   🔗 [https://doi.org/10.5281/zenodo.16956654](https://doi.org/10.5281/zenodo.16956654)  
+
+3. **Salcedo Muñoz, D. M. (2021).** *Simulation of the Pyrolysis Process of Disused Tires Through Documentary Analysis of the Alternatives Found in the Last 10 Years (Versión: 1.0).* Zenodo · Indexed in OpenAIRE   
+   🔗 [https://doi.org/10.5281/zenodo.16971050](https://doi.org/10.5281/zenodo.16971050)  
+
+4. **Salcedo Muñoz, D. M. (2022).** *Global strategic perspectives of a multinational – Nutresa: Excellence in advanced process engineering, innovation, and strategic supply chain management (Versión: 1.0).* Zenodo · Indexed in OpenAIRE   
+   🔗 [https://doi.org/10.5281/zenodo.17109807](https://doi.org/10.5281/zenodo.17109807)  
+
+
 
 
 
