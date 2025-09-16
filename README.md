@@ -29,7 +29,7 @@
 
 
 <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="36" height="36">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="42" height="42">
   </a>
   
 
