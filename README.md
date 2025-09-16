@@ -50,11 +50,18 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 <div align="left">
 
   <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40" style="margin:0 12px;">
-  <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP S/4HANA" height="40" style="margin:0 12px;">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="48" style="margin:0 12px;">
+
+
+  
 </div>
 
 ## 📚 Indexed Publications & DOIs  
@@ -64,7 +71,7 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 1. **Salcedo Muñoz, D. M. (2022).** *Metaheuristic Optimization Algorithms in Multi-Level Supply Chains with a Focus on Innovation, STI, and Intellectual Property. *(Versión: 1.0).* Zenodo · Indexed in OpenAIRE   
    🔗 [https://doi.org/10.5281/zenodo.16972934](https://doi.org/10.5281/zenodo.16972934)  
 
-2. **Salcedo Muñoz, D. M. (2025).** *Optimization of the Integration of Drawings and Bills of Materials in SAP S/4HANA Strategic Manual of Good Practices: Transforming Innovation (Versión: 1.0).* Zenodo · Indexed in OpenAIRE 
+2. **Salcedo Muñoz, D. M. (2023).** *Optimization of the Integration of Drawings and Bills of Materials in SAP S/4HANA Strategic Manual of Good Practices: Transforming Innovation (Versión: 1.0).* Zenodo · Indexed in OpenAIRE 
    🔗 [https://doi.org/10.5281/zenodo.16956654](https://doi.org/10.5281/zenodo.16956654)  
 
 3. **Salcedo Muñoz, D. M. (2021)** *Simulation of the Pyrolysis Process of Disused Tires Through Documentary Analysis of the Alternatives Found in the Last 10 Years (Versión: 1.0).* Zenodo · Indexed in OpenAIRE 
