@@ -22,12 +22,6 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 - **Sustainable Digital Transformation & ESG Innovation** → Integration of disruptive technologies with strategic sustainability, enhancing competitiveness, organizational resilience, and responsible leadership in global contexts.  
 - **Industry 4.0 & Smart Systems** → Implementation of IoT solutions, industrial cybersecurity, cognitive intelligence, and digital twins applied to healthcare, education, and process engineering.  
 
-
-
-
-
-
-
 ## 🌐 Conéctate conmigo  
 
 <div align="left">
@@ -53,14 +47,22 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 
 ## 🛠️ Tecnologías y Herramientas  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?style=for-the-badge&logo=mathworks&logoColor=white)
-![Celonis](https://img.shields.io/badge/Celonis-FFBF00?style=for-the-badge&logo=celonis&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<div align="center">
+
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="48" style="margin:0 12px;">
+
+  <!-- No están en skill-icons: usamos Simple Icons con colores oficiales -->
+  <img src="https://cdn.simpleicons.org/matlab/FF7F00" alt="MATLAB" height="48" style="margin:0 12px;">
+  <img src="https://cdn.simpleicons.org/celonis/FFBF00" alt="Celonis" height="48" style="margin:0 12px;">
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP S/4HANA" height="48" style="margin:0 12px;">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="48" style="margin:0 12px;">
+
+</div>
+
 
 ## 📌 Proyectos Destacados  
 
