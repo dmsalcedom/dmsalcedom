@@ -29,19 +29,19 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
     <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40">
   </a>
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
-    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="45" height="45">
+    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="40" height="40">
   </a>
  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank">
-    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="45" height="45">
+    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="45" height="45">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
   </a>
 <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="42" height="34">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="40" height="40">
   </a>
   <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
-    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="36" height="38">
+    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="40" height="40">
   </a>
 </div>
 
@@ -50,11 +50,11 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 <div align="left">
 
   <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="48" style="margin:0 12px;">
-  <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP S/4HANA" height="48" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40" style="margin:0 12px;">
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP S/4HANA" height="40" style="margin:0 12px;">
  
 
 </div>
