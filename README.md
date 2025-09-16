@@ -26,7 +26,7 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 
 <div align="left">
  <a href="https://github.com/dmsalcedom" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="25" height="25">
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="48" height="48">
   </a>
   <a href="https://orcid.org/0009-0004-8289-2432" target="_blank">
     <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="25" height="25">
