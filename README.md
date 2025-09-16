@@ -11,12 +11,12 @@
   &nbsp;&nbsp;
 
   <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
-    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="25" height="36">
+    <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="28" height="36">
   </a>
   &nbsp;&nbsp;
 
   <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank">
-    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="25" height="25">
+    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="28" height="25">
   </a>
   &nbsp;&nbsp;
 
