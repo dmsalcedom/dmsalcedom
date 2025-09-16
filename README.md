@@ -47,19 +47,15 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 
 ## 🛠️ Tecnologías y Herramientas  
 
-<div align="center">
+<div align="left">
 
   <!-- Skill Icons -->
   <img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin:0 12px;">
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="48" style="margin:0 12px;">
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="48" style="margin:0 12px;">
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="48" style="margin:0 12px;">
-
-  <!-- No están en skill-icons: usamos Simple Icons con colores oficiales -->
-  <img src="https://cdn.simpleicons.org/matlab/FF7F00" alt="MATLAB" height="48" style="margin:0 12px;">
-  <img src="https://cdn.simpleicons.org/celonis/FFBF00" alt="Celonis" height="48" style="margin:0 12px;">
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP S/4HANA" height="48" style="margin:0 12px;">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" height="48" style="margin:0 12px;">
+ 
 
 </div>
 
