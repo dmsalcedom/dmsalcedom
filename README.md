@@ -35,7 +35,7 @@
 
   
   <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
-    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="36" height="40">
+    <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="36" height="38">
   </a>
 
  
