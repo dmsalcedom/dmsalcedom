@@ -61,16 +61,16 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 
 **[Zenodo CTI Hub](https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/)** → Comunidad internacional en Process Mining, AI, Innovación & ESG.  
 
-1. **Salcedo Muñoz, D. M. (2022) ** *Metaheuristic Optimization Algorithms in Multi-Level Supply Chains with a Focus on Innovation, STI, and Intellectual Property.*  
+1. **Salcedo Muñoz, D. M. (2022).** *Metaheuristic Optimization Algorithms in Multi-Level Supply Chains with a Focus on Innovation, STI, and Intellectual Property. *(Versión: 1.0).* Zenodo · Indexed in OpenAIRE   
    🔗 [https://doi.org/10.5281/zenodo.16972934](https://doi.org/10.5281/zenodo.16972934)  
 
-2. **Salcedo Muñoz, D. M. (2025).** *Optimization of the Integration of Drawings and Bills of Materials in SAP S/4HANA Strategic Manual of Good Practices: Transforming Innovation (Versión: 1.0).* Zenodo.  
+2. **Salcedo Muñoz, D. M. (2025).** *Optimization of the Integration of Drawings and Bills of Materials in SAP S/4HANA Strategic Manual of Good Practices: Transforming Innovation (Versión: 1.0).* Zenodo · Indexed in OpenAIRE 
    🔗 [https://doi.org/10.5281/zenodo.16956654](https://doi.org/10.5281/zenodo.16956654)  
 
-3. **Salcedo Muñoz, D. M. (2021)** *Simulation of the Pyrolysis Process of Disused Tires Through Documentary Analysis of the Alternatives Found in the Last 10 Years (Versión: 1.0).* Zenodo.  
+3. **Salcedo Muñoz, D. M. (2021)** *Simulation of the Pyrolysis Process of Disused Tires Through Documentary Analysis of the Alternatives Found in the Last 10 Years (Versión: 1.0).* Zenodo · Indexed in OpenAIRE 
    🔗 [https://doi.org/10.5281/zenodo.16971050](https://doi.org/10.5281/zenodo.16971050)  
 
-4. **Salcedo Muñoz, D. M. (2022)** *Global strategic perspectives of a multinational – Nutresa: Excellence in advanced process engineering, innovation, and strategic supply chain management (Versión: 1.0).* Zenodo.  
+4. **Salcedo Muñoz, D. M. (2022)** *Global strategic perspectives of a multinational – Nutresa: Excellence in advanced process engineering, innovation, and strategic supply chain management (Versión: 1.0).* Zenodo · Indexed in OpenAIRE   
    🔗 [https://doi.org/10.5281/zenodo.17109807](https://doi.org/10.5281/zenodo.17109807)  
 
 
