@@ -7,28 +7,7 @@
     <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="40" height="40" style="border:0;">
   </a>
   
-  <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969179.png" alt="Zenodo" width="40" height="40" style="border:0;">
-  </a>
-
-  <a href="https://www.credly.com/users/dmsalcedom" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" alt="Credly" width="42" height="42" style="border:0;">
-  </a>
-
-  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968191.png" alt="Coursera" width="40" height="40" style="border:0;">
-  </a>
-
-  <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="border:0;">
-  </a>
-
-  <a href="https://github.com/dmsalcedom" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40" style="border:0;">
-  </a>
-
-</div>
-
+ 
 
 ---
 
