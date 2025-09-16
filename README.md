@@ -64,8 +64,8 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 
 ## 📚 Indexed Publications & DOIs  
 
-<div align="center">
-  <img src="https://github.com/dmsalcedom/dmsalcedom/raw/cecb7fe83afcdddabf29b229dcb926dede2d987f/Gemini_Generated_Image_cwuwowcwuwowcwuw%20(4)-pica.png" alt="CTI Hub AI" width="40">
+<div align="left">
+  <img src="https://github.com/dmsalcedom/dmsalcedom/raw/cecb7fe83afcdddabf29b229dcb926dede2d987f/Gemini_Generated_Image_cwuwowcwuwowcwuw%20(4)-pica.png" alt="CTI Hub AI" width="80">
 </div>
 
 
