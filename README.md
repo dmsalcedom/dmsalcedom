@@ -50,15 +50,16 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
 <div align="left">
 
   <!-- Skill Icons -->
-<img src="https://skillicons.dev/icons?i=python" alt="Python" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="48" style="margin:0 12px;">
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="48" style="margin:0 12px;">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="40" style="margin:0 12px;">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40" style="margin:0 12px;">
+<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="40" style="margin:0 12px;">
 
 
   
