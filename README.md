@@ -55,16 +55,26 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" style="margin:0 12px;">
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40" style="margin:0 12px;">
   <img src="https://cdn.simpleicons.org/sap/0FAAFF" alt="SAP S/4HANA" height="40" style="margin:0 12px;">
- 
-
 </div>
 
+## 📚 Indexed Publications & DOIs  
 
-## 📌 Proyectos Destacados  
+**[Zenodo CTI Hub](https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/)** → Comunidad internacional en Process Mining, AI, Innovación & ESG.  
 
-🔹 **[Zenodo CTI Hub](https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/)** → Comunidad global sobre Process Mining, AI, Innovación y ESG.  
-🔹 **[Documentación Avanzada SAP S/4HANA](https://github.com/dmsalcedom)** → Manual estratégico de buenas prácticas e integración digital.  
-🔹 **Publicaciones OpenAIRE / ORCID** → DOI indexados, visibilidad global en investigación aplicada.  
+1. **Salcedo Muñoz, D. M. (2022) ** *Metaheuristic Optimization Algorithms in Multi-Level Supply Chains with a Focus on Innovation, STI, and Intellectual Property.*  
+   🔗 [https://doi.org/10.5281/zenodo.16972934](https://doi.org/10.5281/zenodo.16972934)  
+
+2. **Salcedo Muñoz, D. M. (2025).** *Optimization of the Integration of Drawings and Bills of Materials in SAP S/4HANA Strategic Manual of Good Practices: Transforming Innovation (Versión: 1.0).* Zenodo.  
+   🔗 [https://doi.org/10.5281/zenodo.16956654](https://doi.org/10.5281/zenodo.16956654)  
+
+3. **Salcedo Muñoz, D. M. (2021)** *Simulation of the Pyrolysis Process of Disused Tires Through Documentary Analysis of the Alternatives Found in the Last 10 Years (Versión: 1.0).* Zenodo.  
+   🔗 [https://doi.org/10.5281/zenodo.16971050](https://doi.org/10.5281/zenodo.16971050)  
+
+4. **Salcedo Muñoz, D. M. (2022)** *Global strategic perspectives of a multinational – Nutresa: Excellence in advanced process engineering, innovation, and strategic supply chain management (Versión: 1.0).* Zenodo.  
+   🔗 [https://doi.org/10.5281/zenodo.17109807](https://doi.org/10.5281/zenodo.17109807)  
+
+
+
 
 
 
