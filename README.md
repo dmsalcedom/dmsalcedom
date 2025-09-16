@@ -15,6 +15,12 @@
   </a>
   &nbsp;&nbsp;
 
+  
+  <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25">
+  </a>
+&nbsp;&nbsp;
+
   <a href="https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/" target="_blank">
     <img src="https://cdn.simpleicons.org/zenodo/1682D4" alt="Zenodo" width="25" height="36">
   </a>
@@ -26,11 +32,6 @@
   &nbsp;&nbsp;
 
  
-
-  <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25">
-  </a>
-&nbsp;&nbsp;
 
  
 </div>
