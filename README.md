@@ -1,16 +1,28 @@
 # 🌍 David Mauricio Salcedo Muñoz  
 ### Senior Innovation & Transformation Expert | Advanced Process Engineering · Process Mining · AI · SAP S/4HANA · I+D+i+e · ESG Innovation · Industry 4.0 & Supply Chain Optimization  
 
-
 🔹 **Innovación & Liderazgo Global**  
-Ingeniero de Procesos Senior y Líder de Innovación con trayectoria en transformación digital, minería de procesos, inteligencia artificial y optimización de cadenas de suministro. Experiencia sólida en gestión de proyectos I+D+i+e, transferencia tecnológica y adopción de metodologías ágiles/Lean Six Sigma con impacto regional, nacional e internacional.  
+Senior STI Specialist & Project Director con más de seis años de experiencia liderando proyectos de **I+D+i+e, innovación tecnológica, transformación digital e Industria 4.0** en los sectores salud, educación e ingeniería de procesos con impacto regional, nacional e internacional.
+
+Experiencia comprobada en **investigación aplicada, transferencia tecnológica, incubación y mentoría de startups, y optimización organizacional** con impacto regional, nacional e internacional.  
+Experto en **SAP S/4HANA, Celonis Process Mining, automatización inteligente (RPA, Low-Code, MLOps), analítica avanzada, IA generativa, modelado predictivo y sistemas de inteligencia cognitiva**.  
+
+Certificado en **Lean Six Sigma Green Belt, CBPP, BPMN 2.0, Design Thinking, Bizagi y Project Management (PMO, PMP, Agile, SAFe, Hybrid)**.  
+Con un fuerte enfoque en **Transformación Digital Sostenible e Innovación ESG**, integro tecnologías de vanguardia con sostenibilidad estratégica, fortaleciendo la competitividad y el impacto responsable en contextos globales.  
+
+Reconocido por mi **visión estratégica, liderazgo multidisciplinario y capacidad de colaboración efectiva**, impulso la mejora continua y la creación de valor sostenible, posicionando organizaciones a la vanguardia de la **innovación y la competitividad global**.
 
 🔹 **Áreas de Especialidad**  
 - Process Mining & Advanced Analytics  
 - AI, RPA & Digital Transformation  
 - SAP S/4HANA (MM · PP · WM · PS · MRP · PPDS)  
 - Lean Six Sigma Green Belt · BPMN 2.0 · PMO/Agile  
-- Open Innovation · Technology Transfer · ESG  
+- Open Innovation · Technology Transfer · ESG
+
+
+
+
+
 
 ## 🌐 Conéctate conmigo  
 
