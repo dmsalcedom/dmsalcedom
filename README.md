@@ -32,10 +32,10 @@ Recognized for my **strategic vision, multidisciplinary leadership, and effectiv
     <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="45" height="45">
   </a>
  <a href="https://www.coursera.org/user/897e9a6b058fed73e715753d465de838" target="_blank">
-    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="28" height="25">
+    <img src="https://cdn.simpleicons.org/coursera/0056D2" alt="Coursera" width="45" height="45">
   </a>
   <a href="https://www.linkedin.com/in/dm-slcm06/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="45" height="45">
   </a>
 <a href="https://www.credly.com/users/dmsalcedom" target="_blank">
     <img src="https://cdn.simpleicons.org/credly/FF6B00" alt="Credly" width="42" height="34">
