@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://orcid.org/0009-0004-8289-2432" target="_white">
-    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="32" height="32">
+    <img src="https://cdn.simpleicons.org/orcid/A6CE39" alt="ORCID" width="25" height="25">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
