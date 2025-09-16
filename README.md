@@ -52,6 +52,27 @@
 
 
 
+
+
+<div align="center">
+
+[![ORCID](https://img.shields.io/badge/ORCID-%20?logo=orcid&logoColor=A6CE39&color=transparent&style=flat)](https://orcid.org/0009-0004-8289-2432)
+[![Zenodo](https://img.shields.io/badge/Zenodo-%20?logo=zenodo&logoColor=1682D4&color=transparent&style=flat)](https://zenodo.org/communities/sti-hub-ai-processmining-supplychain-esg/)
+[![Credly](https://img.shields.io/badge/Credly-%20?logo=credly&logoColor=FF6B00&color=transparent&style=flat)](https://www.credly.com/users/dmsalcedom)
+[![Coursera](https://img.shields.io/badge/Coursera-%20?logo=coursera&logoColor=0056D2&color=transparent&style=flat)](https://www.coursera.org/user/897e9a6b058fed73e715753d465de838)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20?logo=linkedin&logoColor=0A66C2&color=transparent&style=flat)](https://www.linkedin.com/in/dm-slcm06/)
+[![GitHub](https://img.shields.io/badge/GitHub-%20?logo=github&logoColor=181717&color=transparent&style=flat)](https://github.com/dmsalcedom)
+
+</div>
+
+
+
+
+
+
+
+
+
  
 
 ---
